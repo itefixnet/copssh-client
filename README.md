@@ -76,22 +76,11 @@ autossh -V
 
 Copssh client is tested successfully with various SSH servers. You should test and verify that it works for your specific needs.
 
-## Documentation
-
-Additional guides and man pages are available in the [docs](docs/) folder:
-
-- [ssh-copy-id Guide](docs/ssh-copy-id-guide.md) - Complete guide to using ssh-copy-id on Windows
-- [ssh-copy-id Man Page](docs/ssh-copy-id-man-page.md) - Full manual page for ssh-copy-id
-- [autossh Guide](docs/autossh-guide.md) - Complete guide to using autossh on Windows
-- [autossh Man Page](docs/autossh-man-page.md) - Full manual page for autossh
-
 ## Links
 
 - **Copssh client homepage**: https://itefix.net/copssh/client
 - **Copssh client repository**: https://github.com/itefixnet/copssh-client
 - **Copssh server** (paid solution for SSH/SFTP server on Windows): https://itefix.net/copssh/server
-- **ssh-copy-id guide**: https://itefix.net/content/ssh-copy-id-tool-windows
-- **autossh guide**: https://itefix.net/content/autossh-windows
 - **OpenSSH homepage**: https://www.openssh.com/
 
 ## Support
