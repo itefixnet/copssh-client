@@ -2,6 +2,8 @@
 
 Copssh client is a barebone distribution of OpenSSH client for Windows. It provides a self-contained environment with OpenSSH client, ssh-copy-id, autossh, and required utilities already included, offering everything you need to initiate ssh/sftp requests from your Windows computer.
 
+If you need to serve ssh/sftp requests (run an SSH server on Windows), check out [Copssh server](https://itefix.net/copssh/server).
+
 ## Features
 
 - **Complete OpenSSH client implementation**: Full-featured OpenSSH client for Windows
@@ -97,10 +99,6 @@ Additional guides and man pages are available in the [docs](docs/) folder:
 Support and issue tracking are handled via GitHub Issues:
 
 https://github.com/itefixnet/copssh-client/issues
-
-For commercial support, visit:
-
-https://itefix.net/customer-support
 
 ## License
 
