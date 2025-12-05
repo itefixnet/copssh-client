@@ -20,4 +20,4 @@ All notable changes to this project will be documented in this file.
 
 ## [Previous versions]
 
-[Previous versions](https://itefix.net/copssh/client/releases)
+[Previous versions]: https://itefix.net/copssh/client/releases
