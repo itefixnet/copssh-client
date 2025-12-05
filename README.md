@@ -78,16 +78,8 @@ Copssh client is tested successfully with various SSH servers. You should test a
 
 ## Links
 
-- **Copssh client homepage**: https://itefix.net/copssh/client
-- **Copssh client repository**: https://github.com/itefixnet/copssh-client
 - **Copssh server** (paid solution for SSH/SFTP server on Windows): https://itefix.net/copssh/server
 - **OpenSSH homepage**: https://www.openssh.com/
-
-## Support
-
-Support and issue tracking are handled via GitHub Issues:
-
-https://github.com/itefixnet/copssh-client/issues
 
 ## License
 
