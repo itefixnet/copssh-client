@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+| Component Name   | Component Version | Component Source / URL                         |
+|------------------|------------------|-------------------------------------------------|
+| OpenSSH          | 10.2p1           | https://www.openssh.com/ftp.html                |
+| OpenSSL          | 3.0.19           | https://openssl-library.org/                    |
+| Cygwin           | 3.6.6            | https://cygwin.com/packages/summary/cygwin.html |
+| Autossh          | 1.4f             | https://github.com/Autossh/autossh              |
+
+## [8.3.1] - 2025-02-07
+
+### Changed
+- openssl 3.0.19
+- cygwin 3.6.6
+
+[8.3.1]: https://github.com/itefixnet/copssh-client/releases/tag/v8.3.1
+
 ## [8.3.0] - 2025-11-03
 
 ### Changed
