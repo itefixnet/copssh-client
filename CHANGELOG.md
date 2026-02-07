@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
 | Cygwin           | 3.6.6            | https://cygwin.com/packages/summary/cygwin.html |
 | Autossh          | 1.4f             | https://github.com/Autossh/autossh              |
 
-## [8.3.1] - 2025-02-07
+## [8.3.1] - 2026-02-07
 
 ### Changed
 - openssl 3.0.19
