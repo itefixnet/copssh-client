@@ -1,3 +1,6 @@
+> [!NOTE]
+> 📦 **This project is no longer actively maintained.** No new features or fixes are planned, but the repository remains available for reference.
+> 
 # Copssh client - OpenSSH for Windows
 
 Copssh client is a barebone distribution of OpenSSH client for Windows. It provides a self-contained environment with OpenSSH client, ssh-copy-id, autossh, and required utilities already included, offering everything you need to initiate ssh/sftp requests from your Windows computer.
